@@ -1,0 +1,9 @@
+{
+    "description": "Зависимости генератора PHP SDK MindVoice.",
+    "type": "project",
+    "require": {
+        "php": "^8.2",
+        "ext-curl": "*",
+        "symfony/yaml": "^7.4"
+    }
+}
